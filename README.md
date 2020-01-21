@@ -7,7 +7,7 @@ intrusion attacks effectively ranging from more traditional approaches to sophis
 models.</p>
 <p>Principal component analysis (PCA) is a method to reduce data complexity with the advantage of
 obtaining important patterns. This approach was used for intrusion detection problem in [2], however
-authors applied it to KDD dataset.
+authors applied it to "KDD99" dataset.
 The method consists of iterative projection observation values on a hyperplane. The coordinates of a
 hyperplane are orthogonal to each other and chosen in particular order to capture greater variance and
 map it to a new axis. When repeated step by step, this process compresses original input into lower
