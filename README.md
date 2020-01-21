@@ -5,6 +5,7 @@ malicious activity across variety of gadgets and devices. To this end, machine l
 on different datasets such as AWID[1] and “KDD99” have shown diverse procedures to detect
 intrusion attacks effectively ranging from more traditional approaches to sophisticated multi-layered
 models.</p>
+<p><b>Applying PCA for feature selection</b></p> 
 <p>Principal component analysis (PCA) is a method to reduce data complexity with the advantage of
 obtaining important patterns. This approach was used for intrusion detection problem in [2], however
 authors applied it to "KDD99" dataset.
