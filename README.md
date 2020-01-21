@@ -18,7 +18,7 @@ as the number of original rows, M – recomputed initial values with respect to 
 In this project, I performed PCA part, because it allows to capture unknown patterns of the data, and
 combine this compressed input with original one in order to obtain features that contribute most to predicting target class.</p>
 <p>Finally, I obtained 12 features including one dimension extracted from original data with accuracy rate 98.6%, which is much higher than in [2], where accuracy is 86.34%</b>
-<p>[1]. <a href="http://icsdweb.aegean.gr/awid/"><b>“AWID dataset ”</b></a></b>
+<p>[1]. <a href="http://icsdweb.aegean.gr/awid/"><b>“AWID dataset ”</b></a> (dataset used for this problem was preprocessed and balanced having equal number of output classes)</b>
 <p>[2]. <a href="https://www.researchgate.net/publication/328920124_Network_Intrusion_Detection_Method_Based_on_PCA_and_Bayes_Algorithm"><b>B.Zhang, Z.Liu, Y.Jia, J.Ren,and X.Zhao, “Network Intrusion Detection Method Based on PCA and
 Bayes Algorithm”, Security and Communication Networks, Hindawi, 2018.</b></a></b>
 
